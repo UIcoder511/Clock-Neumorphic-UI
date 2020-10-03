@@ -2,3 +2,5 @@
 
 
 https://clock-morph.netlify.app/
+
+Light and Dark theme
